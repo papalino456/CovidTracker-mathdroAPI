@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CovidTracker-mathdroAPI/static/css/main.9e74d962.chunk.css",
+    "main.js": "/CovidTracker-mathdroAPI/static/js/main.4bdbd550.chunk.js",
+    "main.js.map": "/CovidTracker-mathdroAPI/static/js/main.4bdbd550.chunk.js.map",
+    "runtime-main.js": "/CovidTracker-mathdroAPI/static/js/runtime-main.f4de1af1.js",
+    "runtime-main.js.map": "/CovidTracker-mathdroAPI/static/js/runtime-main.f4de1af1.js.map",
+    "static/js/2.5cfb0d31.chunk.js": "/CovidTracker-mathdroAPI/static/js/2.5cfb0d31.chunk.js",
+    "static/js/2.5cfb0d31.chunk.js.map": "/CovidTracker-mathdroAPI/static/js/2.5cfb0d31.chunk.js.map",
+    "index.html": "/CovidTracker-mathdroAPI/index.html",
+    "precache-manifest.e659b71f2b461cfbc954270b8b82dcc6.js": "/CovidTracker-mathdroAPI/precache-manifest.e659b71f2b461cfbc954270b8b82dcc6.js",
+    "service-worker.js": "/CovidTracker-mathdroAPI/service-worker.js",
+    "static/css/main.9e74d962.chunk.css.map": "/CovidTracker-mathdroAPI/static/css/main.9e74d962.chunk.css.map",
+    "static/js/2.5cfb0d31.chunk.js.LICENSE.txt": "/CovidTracker-mathdroAPI/static/js/2.5cfb0d31.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/CovidTracker-mathdroAPI/static/media/logo.8f51f8ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4de1af1.js",
+    "static/js/2.5cfb0d31.chunk.js",
+    "static/css/main.9e74d962.chunk.css",
+    "static/js/main.4bdbd550.chunk.js"
+  ]
+}
